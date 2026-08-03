@@ -4,7 +4,7 @@
 
 **Candoo Site Builder** is a Persian, all-in-one solution for designing websites, creating online stores, and managing online business activities. With Candoo, you can launch your website, publish content, manage products and orders, and maintain more consistent communication with customers—without getting tangled in technical complexities.
 
-If you’re looking for a Persian site builder to start or grow your online presence, visit the [official Candoo Site Builder website](https://www.candoo.site).
+If you’re looking for a Persian site builder to start or grow your online presence, visit the [official Candoo Site Builder website](https://www.candoo.site/en/).
 
 ---
 
